@@ -1,0 +1,1 @@
+一定要向ghost一样！！要有KernelManager，map，FunctionThread！！！不然会“基类未定义”。
